@@ -1,0 +1,21 @@
+Attendance Management System
+
+Course Name:,Operating System
+Instructor Name:,salwa 
+Lecture ID:,12
+Generated on:,2025-12-18 00:28:31
+
+Student Code,Student Name,Status,Attendance Time
+ST001,ahmed essam ,Absent,
+ST002, khalid,Absent,
+ST003,omar ,Present,2025-12-18 00:18:38
+ST004,ahmed mohamed,Absent,
+ST005, mahmoud,Absent,
+ST006, abdelrahman ,Absent,
+
+Attendance Summary
+Total Registered Students:,6
+Total Present:,1
+Total Absent:,5
+
+End of Report

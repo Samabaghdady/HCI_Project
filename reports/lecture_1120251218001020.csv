@@ -1,0 +1,23 @@
+Face Recognition-Based Attendance Management System
+Project by: Ahmed Essam
+"Date: December 17, 2025"
+
+Course Name:,Advanced AI
+Instructor Name:,Diaa
+Lecture ID:,11
+Generated on:,2025-12-18 00:10:20
+
+Student Code,Student Name,Status,Attendance Time
+ST001,ahmed essam ,Absent,
+ST002, khalid,Absent,
+ST003,omar ,Present,2025-12-17 23:42:27
+ST004,ahmed mohamed,Absent,
+ST005, mahmoud,Absent,
+ST006, abdelrahman ,Absent,
+
+Attendance Summary
+Total Registered Students:,6
+Total Present:,1
+Total Absent:,5
+
+End of Report
