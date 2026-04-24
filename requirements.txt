@@ -1,0 +1,10 @@
+mysql-connector-python
+face-recognition
+dlib-bin
+face-recognition-models
+numpy
+Pillow
+Click
+opencv-python
+fpdf
+
